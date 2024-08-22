@@ -347,7 +347,8 @@ GEM
     regexp_parser (2.6.1)
     request_store (1.5.1)
       rack (>= 1.4)
-    rexml (3.2.5)
+    rexml (3.3.6)
+      strscan
     rinku (2.0.6)
     rotp (6.2.1)
     rqrcode (2.1.2)
@@ -449,6 +450,7 @@ GEM
       sprockets (>= 3.0.0)
     sshkey (2.0.0)
     stackprof (0.2.23)
+    strscan (3.1.0)
     test-prof (1.1.0)
     thor (1.2.1)
     tilt (2.0.11)
